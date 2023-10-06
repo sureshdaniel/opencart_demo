@@ -6,14 +6,14 @@
  <test name="ChromeTest">
     <parameter name="browser" value="chrome" />    <!-- passing browser parameter to BaseClass ->Setup() -->
     <classes>
-   	     <class name="testCases.TC_001_AccountRegistrationtTest"/>
+   	     <class name="testCases.TC_001_AccountRegistrationTest"/>
     </classes>
   </test> 
   
   <test name="EdgeTest">
     <parameter name="browser" value="edge" />    <!-- passing browser parameter to BaseClass ->Setup() -->
     <classes>
-   	     <class name="testCases.TC_001_AccountRegistrationtTest"/>
+   	     <class name="testCases.TC_001_AccountRegistrationTest"/>
     </classes>
   </test>
   
